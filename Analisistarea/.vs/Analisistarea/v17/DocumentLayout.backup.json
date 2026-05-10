@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ANGELOY\\Documents\\Tarea\\Analisistarea\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F3FA23-A65C-4F40-8CCE-6D2FE74ADAD9}|Analisistarea\\Analisistarea.csproj|c:\\users\\angeloy\\documents\\tarea\\analisistarea\\analisistarea\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F3FA23-A65C-4F40-8CCE-6D2FE74ADAD9}|Analisistarea\\Analisistarea.csproj|solutionrelative:analisistarea\\controllers\\pruebacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PruebaController.cs",
+              "DocumentMoniker": "C:\\Users\\ANGELOY\\Documents\\Tarea\\Analisistarea\\Analisistarea\\Controllers\\PruebaController.cs",
+              "RelativeDocumentMoniker": "Analisistarea\\Controllers\\PruebaController.cs",
+              "ToolTip": "C:\\Users\\ANGELOY\\Documents\\Tarea\\Analisistarea\\Analisistarea\\Controllers\\PruebaController.cs",
+              "RelativeToolTip": "Analisistarea\\Controllers\\PruebaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T02:40:12.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
