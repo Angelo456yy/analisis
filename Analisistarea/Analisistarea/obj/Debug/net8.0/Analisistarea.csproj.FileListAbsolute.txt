@@ -33,3 +33,4 @@ C:\Users\ANGELOY\Documents\Tarea\Analisistarea\Analisistarea\obj\Debug\net8.0\re
 C:\Users\ANGELOY\Documents\Tarea\Analisistarea\Analisistarea\obj\Debug\net8.0\Analisistarea.pdb
 C:\Users\ANGELOY\Documents\Tarea\Analisistarea\Analisistarea\obj\Debug\net8.0\Analisistarea.genruntimeconfig.cache
 C:\Users\ANGELOY\Documents\Tarea\Analisistarea\Analisistarea\obj\Debug\net8.0\ref\Analisistarea.dll
+C:\Users\ANGELOY\Documents\Tarea\Analisistarea\Analisistarea\obj\Debug\net8.0\Analisistarea.sourcelink.json
